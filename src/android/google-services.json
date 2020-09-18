@@ -1,39 +1,45 @@
 {
   "project_info": {
-    "project_number": "123",
-    "firebase_url": "https://cordova-plugin-firebase.firebaseio.com",
-    "project_id": "cordova-plugin-firebase",
-    "storage_bucket": "cordova-plugin-firebase.appspot.com"
+    "project_number": "243075573891",
+    "firebase_url": "https://marefat-d53c9.firebaseio.com",
+    "project_id": "marefat-d53c9",
+    "storage_bucket": "marefat-d53c9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123:android:123",
+        "mobilesdk_app_id": "1:243075573891:android:1d90c5f53ac2fcea1753b6",
         "android_client_info": {
-          "package_name": "com.github.cordova_plugin_firebase"
+          "package_name": "com.marefat.marefatmobile"
         }
       },
       "oauth_client": [
         {
-          "client_id": "123.apps.googleusercontent.com",
+          "client_id": "243075573891-lbo7hs7p18j25ci5g0cfj2p59v5a7jqq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "123"
+          "current_key": "AIzaSyC49_jSWLN30UEsisv6zLvrvT300aBk4RA"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243075573891-lbo7hs7p18j25ci5g0cfj2p59v5a7jqq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "243075573891-ljm4q2tgj3okop29d79781ltkpv50cbj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.marefat.marefatmobile",
+                "app_store_id": "1517067975"
+              }
+            }
+          ]
         }
       }
     }
